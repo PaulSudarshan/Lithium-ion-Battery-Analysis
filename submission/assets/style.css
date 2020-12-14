@@ -1,0 +1,41 @@
+.logo-img {
+  float: left;
+  padding: 0 10px 0 0;
+  display:inline;
+}
+
+
+.title {
+    font-size: 50px;
+    color: white;
+    text-align:center;
+    
+}
+
+.title-sub {
+    font-size: 20px;
+    color: white;
+    text-align:center;
+    
+}
+
+.para {
+    font-size: 15px;
+    color: white;
+    text-align:center;
+    
+}
+
+
+.bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+    
+/*   opacity: 0.5; */
+  z-index: -1;
+}
